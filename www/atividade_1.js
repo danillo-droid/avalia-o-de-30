@@ -1,0 +1,1 @@
+console.log("joão tem 16 anos de idade e gosta de futebol")
